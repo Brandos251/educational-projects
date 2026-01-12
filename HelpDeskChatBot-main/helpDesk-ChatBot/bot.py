@@ -4,7 +4,7 @@ import telebot
 import schedule
 import time
 import threading
-bot = telebot.TeleBot('7959196680:AAEucQz4_ehZIfHEGJadbA-bz8A_d3pOd4g')
+bot = telebot.TeleBot('YOUR_TOKEN_HERE')
 
 schedule.every(10).minutes.do(parse)
 
