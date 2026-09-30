@@ -26,7 +26,7 @@
 ## Схема работы
 
 <p align="center">
-  <img src="images/schema.png" alt="Схема работы HelpDeskChatBot" width="900">
+  <img src="helpDesk-ChatBot/images/schema.png" alt="Схема работы HelpDeskChatBot" width="900">
 </p>
 
 Основной pipeline:
